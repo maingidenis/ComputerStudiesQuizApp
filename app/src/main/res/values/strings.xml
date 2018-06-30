@@ -1,0 +1,71 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Computer Studies Quiz App</string>
+
+    <!--Field for entering Name-->
+    <string name="name">Name</string>
+    <!--Headers for Questions-->
+    <!--Header for Question One-->
+    <string name="header1">Question 1</string>
+    <!--Header for Question Two-->
+    <string name="header2">Question 2</string>
+    <!--Header for Question Three-->
+    <string name="header3">Question 3</string>
+    <!--Header for Question Four-->
+    <string name="header4">Question 4</string>
+    <!--Header for Question Five-->
+    <string name="header5">Question 5</string>
+    <!--Header for Question Six-->
+    <string name="header6">Question 6</string>
+    <!--Header for Question Seven-->
+    <string name="header7">Question 7</string>
+    <!--Questions 1-7-->
+    <!--Question One-->
+    <string name="question1">"1. What is the name given to the electronic device that accepts user's raw data as input and processes it under a set of instructions to produce the required output as information?"</string>
+    <!--Answers to question one-->
+    <string name="answer1">Answer</string>
+    <!--Question Two-->
+    <string name="question2">2. Which definition matches this acronym (ARPANET)?</string>
+    <!--Answers to question two-->
+    <string name="answer2_1">Advanced Research Project Agency Network</string>
+    <string name="answer2_2">Automatic Research Project Agency Network</string>
+    <string name="answer2_3">Advanced Research Protocol Automatic Network</string>
+    <string name="answer2_4">Automatic Research Protocol Automatic Network</string>
+
+    <!--Question Three-->
+    <string name="question3">3. Computers were classified according to their size, purpose and capability, which choice(s) shows the correct order in respect to size?</string>
+    <!--Answers to question three-->
+    <string name="answer3_1">Supercomputer, Minicomputer, Mainframe, Microcomputer, Personal Digital Assistants(PDAs)</string>
+    <string name="answer3_2">Minicomputer, Mainframe, Supercomputer, Microcomputer, Personal Digital Assistants(PDAs)</string>
+    <string name="answer3_3">Personal Digital Assistants(PDAs), Microcomputer, Minicomputer, Mainframe, Supercomputer</string>
+    <string name="answer3_4">Supercomputer, Mainframe, Minicomputer, Microcomputer, Personal Digital Assistants(PDAs)</string>
+    <!--Question Four-->
+    <string name="question4">4. What is information according to Computer studies?</string>
+    <!--Answers to question four-->
+    <string name="answer4_1">"Information is processed raw data designed according to user's desire."</string>
+    <string name="answer4_2">Information is set of data.</string>
+    <string name="answer4_3">"Information is the computer's output after processing."</string>
+    <string name="answer4_4">Information is raw data.</string>
+    <!--Question Five-->
+    <string name="question5">5. What is the name given to the set of instructions that enable the computer hardware run efficiently?</string>
+    <!--Answer to question five-->
+    <string name="answer5">Answer</string>
+    <!--Question Six-->
+    <string name="question6">6. Define Internet.</string>
+    <!--Answers to question six-->
+    <string name="answer6_1">Internet is the interconnection of computers.</string>
+    <string name="answer6_2">Internet is the sharing of data, information and files globally.</string>
+    <string name="answer6_3">Internet is the global interconnection of computer networks which enables the sharing of data, information and files</string>
+    <string name="answer6_4">Internet is the interconnection of networks in computers.</string>
+    <!--Question Seven-->
+    <string name="question7">7. Distinguish between RAM and ROM(choose at least two).</string>
+    <!--Answers to question seven-->
+    <string name="answer7_1">Larger RAMs are faster than ROMs.</string>
+    <string name="answer7_2">RAM is a volatile storage medium chip while ROM is a non-volatile storage medium chip.</string>
+    <string name="answer7_3">RAM is Random Access Memory while ROM is Read Only Memory.</string>
+    <string name="answer7_4">RAM is Read Access Memory while ROM is Random Only Memory</string>
+    <string name="answer7_5">RAMs are bigger than ROMs</string>
+    <!--Submit button to check answers and give result-->
+    <string name="submit">Submit</string>
+
+
+</resources>
